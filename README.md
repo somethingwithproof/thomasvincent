@@ -9,7 +9,7 @@ I do infrastructure and DevOps. Kubernetes, Terraform, AWS, the usual suspects. 
 - A few Terraform modules (Cloudflare maintenance, dedicated hosts)
 - An MCP server that hooks into Apple Notes
 - A WikiTree dashboard that gamifies genealogy contributions (it works on me)
-- Python scripts for Wikipedia MOS linting (I've gotten pretty fast at cleanup edits)
+- Python scripts for Wikipedia MOS linting (lets me get pretty fast at cleanup edits)
 
 ## Outside of code
 
